@@ -189,14 +189,7 @@ background-color: var(--main-bg);
 }
 
 
-.footer {
-  margin:20px;
-  text-align:center;
-   color: white;
-    
-    background-size: cover;
-    text-align: center;
-}
+
 .contacts{
   text-align: center;
 }
@@ -231,6 +224,15 @@ background-color: var(--main-bg);
   color:#C9B037;
 text-align:center; 
 }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #333;
+  font-size: 0.9em;
+  margin-top: 40px;
+}
+
 
 
 @media (max-width: 768px) {
